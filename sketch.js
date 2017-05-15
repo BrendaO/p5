@@ -3,8 +3,8 @@
 //Date: 15th May, 2017                                   //
 //                                                       //
 //Description: To add an animation over video            //
-//Firstly, position the sprite over 					           //
-//the video background. (Use z-index)						         //
+//Firstly, position the sprite over 		         //
+//the video background. (Use z-index)		         //
 //Secondly, this leaves an animation trail so the        //
 //clear() method within the draw() method is used.       //
 //                                                       //
